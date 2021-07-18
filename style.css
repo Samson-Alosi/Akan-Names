@@ -9,6 +9,7 @@
 	Small smartphones [325px -> 425px] */ */ */
 
 body{
+  display: flex;
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;}
@@ -103,3 +104,13 @@ input[type="radio"] {
 .bg-success {
   border-radius: 70px;
 }
+
+canvas.particles-js-canvas-el {
+    height: 100% !important;
+    width: 100%;
+    position: absolute;
+    z-index: -1000;
+    margin: 0px;
+    left: 0;
+    right: 0;
+    top: 0;
