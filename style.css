@@ -24,7 +24,7 @@ body{
   margin-top: 8px;
   padding-bottom: 2px;
   font-size: 48px;
-  text-shadow: 20px 20px 20px rgb(10, 24, 146);
+  text-shadow: 20px 20px 25px rgb(10, 24, 146);
   font-size: 30px;
   text-transform: uppercase;
 }
@@ -81,7 +81,7 @@ h2{
 }
 #get{
   color: #f5f5f5;
-  text-shadow: 2px 2px 5px black;
+  text-shadow: 2px 2px 5px rgb(7, 6, 6);
   margin-bottom: 10px;
   /* align-items: center; */
   padding: 0px 0px 0px 650px;
@@ -101,7 +101,7 @@ input[type="radio"] {
 .footer-copyright{
   color: rgb(36, 32, 32);
   font-weight: 600;
-  font-size: 15px;}
+  font-size: 18px;}
 
 .bg-success {
   border-radius: 70px;
