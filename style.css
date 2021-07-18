@@ -19,7 +19,7 @@ body{
   h1{font-family: 'Muli', sans-serif;;
   font-weight: bolder;
   text-align: center;
-  color: rgb(5, 1, 1);
+  color: rgb(17, 1, 1);
   margin-bottom: 0px;
   margin-top: 8px;
   padding-bottom: 2px;
@@ -46,14 +46,14 @@ body{
 }
 h2{
   text-align: center;
-  font-size: 30px;
+  font-size: 32px;
   font-weight: 700;
   font-style: oblique;
   color:rgb(197, 197, 196);
   font-family:'Quicksand', sans-serif;
 }
 .form-check-label{
-  color: rgb(19, 13, 13);
+  color: rgb(46, 14, 14);
   font-size: 22px;
 }
 .form{
@@ -95,7 +95,7 @@ input[type="radio"] {
   border-radius: 70px;
 }
 .card-body{
-  color: rgb(194, 182, 182);
+  color: rgb(208, 200, 200);
 }
 
 .footer-copyright{
