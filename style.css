@@ -21,7 +21,7 @@ body{
   text-align: center;
   color: rgb(17, 1, 1);
   margin-bottom: 0px;
-  margin-top: 8px;
+  margin-top: 7px;
   padding-bottom: 2px;
   font-size: 48px;
   text-shadow: 20px 20px 25px rgb(10, 24, 146);
@@ -53,7 +53,7 @@ h2{
   font-family:'Quicksand', sans-serif;
 }
 .form-check-label{
-  color: rgb(46, 14, 14);
+  color: rgb(49, 24, 24);
   font-size: 22px;
 }
 .form{
@@ -71,7 +71,7 @@ h2{
   font-weight: 800;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 18px;
-  color: rgb(30, 170, 116);
+  color: rgb(121, 218, 181);
 }
 
 .page-footer{
