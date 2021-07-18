@@ -38,7 +38,7 @@ body{
   /* padding: 50px 50px 50px 50px; */
 }
  .overlay{
-  background-color: rgba(59, 70, 9, 0.8);
+  background-color: rgba(25, 29, 9, 0.8);
   margin-left: 25%;
   margin-right: 16%;
   opacity: 0.9;
@@ -61,7 +61,7 @@ h2{
   padding-bottom: 18px;
 }
 .form-group{
-  color: rgb(214, 211, 204);
+  color: rgb(174, 163, 138);
   font-weight: 100;
   font-size: 22px;
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
