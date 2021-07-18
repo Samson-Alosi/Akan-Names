@@ -1,3 +1,5 @@
+
+
 body{
  background-position: center;
  background-repeat: no-repeat;
@@ -88,3 +90,7 @@ input[type="radio"] {
   color: rgb(36, 32, 32);
   font-weight: 600;
   font-size: 15px;}
+
+.bg-success {
+  border-radius: 70px;
+}
